@@ -154,7 +154,6 @@ matplotlib==3.9.2
 matplotlib-inline
 mccabe
 mdit-py-plugins
-mdurl
 menuinst
 mistune
 mkl-service==2.4.0
