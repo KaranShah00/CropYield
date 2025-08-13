@@ -152,8 +152,6 @@ markdown-it-py
 MarkupSafe
 matplotlib==3.9.2
 matplotlib-inline
-mccabe
-menuinst
 mistune
 mkl-service==2.4.0
 mkl_fft
@@ -333,9 +331,6 @@ toml
 tomli
 tomlkit
 toolz
-torch==2.8.0+cpu
-torchaudio==2.8.0+cpu
-torchvision==0.23.0+cpu
 tornado
 tqdm
 traitlets
@@ -372,4 +367,5 @@ zict
 zipp
 zope.interface
 zstandard
+
 
