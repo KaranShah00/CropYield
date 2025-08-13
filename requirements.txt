@@ -146,7 +146,7 @@ linkify-it-py
 llvmlite
 lmdb
 locket
-lxml==5.2.1
+lxml==4.6.2
 lz4
 Markdown
 markdown-it-py
